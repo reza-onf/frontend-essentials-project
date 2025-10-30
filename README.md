@@ -1,1 +1,1 @@
-# frontend-essentials-project
+# Frontend Essentials Project
